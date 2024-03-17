@@ -1,15 +1,12 @@
 # Face-Recognition-Attendence-System 
-###Project Development:
-
-Developed as part of a mini project in the Lab course.
-Likely involved planning, coding, testing, and documentation phases.
-###Algorithms Used:
+A facial recognition attendance system automates attendance tracking by identifying individuals based on facial features. It captures and matches faces against a database, recording attendance data accurately and securely. Integrated with existing systems, it enhances efficiency and security while minimizing manual effort. Challenges include ensuring accuracy across varying conditions and addressing privacy concerns associated with biometric data collection.
+### Algorithms Used:
 
 Utilized Haar cascade algorithm for face detection.
 This algorithm is effective for detecting objects in images, particularly faces, by analyzing patterns of pixel intensities.
 Employed LBPH (Local Binary Patterns Histograms) algorithm for face recognition.
 LBPH is a texture-based approach for facial recognition, which extracts local features and represents them as histograms.
-###Required Libraries:
+### Required Libraries:
 
 OpenCV (Open Source Computer Vision):
 Used for image processing tasks such as reading images, image manipulation, and computer vision algorithms.
