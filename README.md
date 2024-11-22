@@ -20,3 +20,17 @@ Python's built-in module for interacting with the operating system. It could be 
 Used as the backend database server for storing information related to the application, such as user data, recognition results, etc.
 #### Python Connector for MySQL:
 This allows Python to communicate with the MySQL database, facilitating operations like inserting, updating, deleting, and querying data from the database within the Python environment.
+###Output 
+![image](https://github.com/user-attachments/assets/c1a72fe7-8238-427b-a999-06593849972c)
+##########################################################################################################
+![image](https://github.com/user-attachments/assets/8e57f2ce-8e83-4e23-98a9-87e847b6444b)
+##########################################################################################################
+![image](https://github.com/user-attachments/assets/2e77efbe-aebf-4db6-a2b0-251fa3cea8fa)
+##########################################################################################################
+![image](https://github.com/user-attachments/assets/a6f459d5-3739-4cf6-a233-79eedf896931)
+##########################################################################################################
+![image](https://github.com/user-attachments/assets/d7164e75-cb66-483f-81fb-8b424e849959)
+###################################Photo Samples ########################################################
+![image](https://github.com/user-attachments/assets/5dd0ed5e-5ec8-4abd-a7ee-985bde726626)
+##########################################################################################################
+
