@@ -60,7 +60,7 @@ python main.py
 
 
 ## 📧 Contact
-For inquiries, feel free to reach out at: [your-rohitingle2912@gmail.com](mailto:rohitingle2912@gmail.com)
+For inquiries, feel free to reach out at: [rohitingle2912@gmail.com](mailto:rohitingle2912@gmail.com)
 
 ## Output 
 ![image](https://github.com/user-attachments/assets/c1a72fe7-8238-427b-a999-06593849972c)
