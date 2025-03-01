@@ -42,7 +42,7 @@ Ensure you have the following installed:
 ### 📥 Installation Steps
 ```sh
 # Clone the repository
-git clone https://github.com/your-username/Face-Recognition-Attendance-System.git
+git clone https://github.com/Mrrohitingle/Face-Recognition-Attendence-System.git
 cd Face-Recognition-Attendance-System
 
 # Install dependencies
