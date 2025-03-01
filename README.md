@@ -46,18 +46,7 @@ git clone https://github.com/your-username/Face-Recognition-Attendance-System.gi
 cd Face-Recognition-Attendance-System
 
 # Install dependencies
-pip install opencv-python pillow mysql-connector-python
-```
-
-### 🛠️ Database Setup
-```sql
-CREATE DATABASE attendance_system;
-USE attendance_system;
-CREATE TABLE users (
-    id INT PRIMARY KEY AUTO_INCREMENT,
-    name VARCHAR(100),
-    face_encoding BLOB
-);
+pip install -r requrements.txt
 ```
 
 ## 🎯 Usage
@@ -71,7 +60,7 @@ python main.py
 
 
 ## 📧 Contact
-For inquiries, feel free to reach out at: [your-email@example.com](mailto:your-email@example.com)
+For inquiries, feel free to reach out at: [your-email@example.com](mailto:rohitingle2912@gmail.com)
 
 ## Output 
 ![image](https://github.com/user-attachments/assets/c1a72fe7-8238-427b-a999-06593849972c)
